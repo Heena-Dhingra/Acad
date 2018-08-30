@@ -19,7 +19,7 @@ class Doggy extends Animals
 	}
 	public void info(String name,String color,String breed)
 	{
-		System.out.println("I have a "+color+breed+" dog and his name is "+name+".");
+		System.out.println("I have a "+color+" "+breed+" dog and his name is "+name+".");
 	}
 	public static void main(String args[])
 	{
